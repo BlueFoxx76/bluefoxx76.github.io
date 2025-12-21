@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Blue Foxx DARK</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body {margin:0; padding:0; min-height:100vh; background:#0a0a0a; display:flex; align-items:center; justify-content:center; font-family:system-ui; color:#ddd; text-align:center; position:relative}
+  body::before {content:''; position:fixed; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle, rgba(139,0,0,0.2) 1px, transparent 1px); background-size:60px 60px; opacity:0.4}
+  .box {max-width:90%; width:90%; background:rgba(20,0,0,0.9); padding:50px 30px; border-radius:20px; border:2px solid #8b0000; box-shadow:0 0 30px rgba(139,0,0,0.6)}
+  img {width:150px; height:150px; border-radius:50%; border:6px solid #8b0000; margin-bottom:25px; object-fit:cover}
+  h1 {font-size:40px; margin:10px 0; color:#ff3333; font-weight:bold; text-shadow:0 0 15px #8b0000}
+  .warning {color:#ff6666; font-weight:bold; margin:20px 0}
+  p {margin:18px 0; line-height:1.6; font-size:17px}
+  a {display:block; background:#8b0000; padding:18px; margin:15px auto; border-radius:16px; text-decoration:none; color:white; font-size:19px; font-weight:bold; transition:0.3s; cursor:pointer}
+  a:hover {background:#b22222; transform:translateY(-3px); box-shadow:0 0 20px rgba(178,34,34,0.8)}
+</style>
+</head>
+<body>
+<div class="box">
+  <img src="https://github.com/bluefoxx76.png" alt="Bluefoxx">
+  <h1>Blue Foxx DARK</h1>
+  <p class="warning">18+ ONLY — NSFW ZONE</p>
+
+  <p>Neko girls, gothic queens, anime girls, games, dragons, and ink — that’s my world.<br>
+  I ride loud bikes, chase sport-bike chicks, collect big cats (panthers & tigers are life), and print jaw-dropping art of the most beautiful women I find or know.<br>
+  This is the unfiltered, no-apologies side of me. I DO NOT BUY CONTENT!</p>
+
+  <p>Step carefully… or dive in deep.</p>
+
+  <a href="https://cash.app/$BlueFoxx76">CashApp $BlueFoxx76</a>
+  <a href="https://twitter.com/Bluefoxx76_dark">X</a>
+  <a href="https://instagram.com/Bluefoxx76">Instagram</a>
+  <a href="https://bsky.app/profile/bluefoxx76.bsky.social">Bluesky</a>
+  <a href="https://tiktok.com/@bluefoxx76">TikTok</a>
+  <a href="https://snapchat.com/add/bluefoxx76">Snapchat</a>
+  <a href="https://t.me/Blue_Foxx">Telegram</a>
+  <a href="https://tellonym.me/Bluefoxx76">Tellonym</a>
+  <a href="https://signal.me/#eu/BlueFoxx.76">Signal</a>
+  <a href="https://xboxgamertag.com/search/BlueFoxx76">Xbox</a>
+  <a href="https://bluefoxx76.tumblr.com">Tumblr</a>
+  <a href="https://zangi.com">Zangi 10-9813-8187</a>
+  <a href="https://www.amazon.com/hz/wishlist/ls/3THYE1DZDG0U3/ref=nav_wishlist_lists_1">Amazon Wishlist</a>
+</div>
+</body>
+</html>
